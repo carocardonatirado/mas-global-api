@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/carolina/Documents/MGlobal/MGlobal.Api/MGlobal.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/carolina/Documents/MGlobal/MGlobal.Api/MGlobal.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carolina/Documents/MGlobal/MGlobal.Api/MGlobal.Api.csproj",
+        "projectName": "MGlobal.Api",
+        "projectPath": "/Users/carolina/Documents/MGlobal/MGlobal.Api/MGlobal.Api.csproj",
+        "packagesPath": "/Users/carolina/.nuget/packages/",
+        "outputPath": "/Users/carolina/Documents/MGlobal/MGlobal.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/carolina/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/carolina/Documents/MGlobal/MGlobal.Core/MGlobal.Core.csproj": {
+                "projectPath": "/Users/carolina/Documents/MGlobal/MGlobal.Core/MGlobal.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/carolina/Documents/MGlobal/MGlobal.Core/MGlobal.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/carolina/Documents/MGlobal/MGlobal.Core/MGlobal.Core.csproj",
+        "projectName": "MGlobal.Core",
+        "projectPath": "/Users/carolina/Documents/MGlobal/MGlobal.Core/MGlobal.Core.csproj",
+        "packagesPath": "/Users/carolina/.nuget/packages/",
+        "outputPath": "/Users/carolina/Documents/MGlobal/MGlobal.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/carolina/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/bin/Debug/netstandard2.0/MGlobal.Core.deps.json
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/bin/Debug/netstandard2.0/MGlobal.Core.dll
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/bin/Debug/netstandard2.0/MGlobal.Core.pdb
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.csprojAssemblyReference.cache
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.csproj.CoreCompileInputs.cache
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.AssemblyInfoInputs.cache
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.AssemblyInfo.cs
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.dll
+/Users/mariorua/Projects/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.pdb
+/Users/carolina/Documents/MGlobal/MGlobal.Core/bin/Debug/netstandard2.0/MGlobal.Core.deps.json
+/Users/carolina/Documents/MGlobal/MGlobal.Core/bin/Debug/netstandard2.0/MGlobal.Core.dll
+/Users/carolina/Documents/MGlobal/MGlobal.Core/bin/Debug/netstandard2.0/MGlobal.Core.pdb
+/Users/carolina/Documents/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.csprojAssemblyReference.cache
+/Users/carolina/Documents/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.AssemblyInfoInputs.cache
+/Users/carolina/Documents/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.AssemblyInfo.cs
+/Users/carolina/Documents/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.dll
+/Users/carolina/Documents/MGlobal/MGlobal.Core/obj/Debug/netstandard2.0/MGlobal.Core.pdb

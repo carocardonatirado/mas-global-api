@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Manager\" />
+    <Folder Include="Domain\" />
+    <Folder Include="Data\Services\" />
+    <Folder Include="Domain\Entities\" />
+    <Folder Include="Domain\Contracts\" />
+    <Folder Include="Domain\DTO\" />
+    <Folder Include="Factory\" />
+    <Folder Include="Utils\" />
+    <Folder Include="Utils\Constants\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.11.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+</Project>

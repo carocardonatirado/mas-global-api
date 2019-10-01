@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4ED048D8-CDD4-4D51-BC09-C722AD137774}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MGlobal.Api/Properties/launchSettings.json">
+    <Files>
+      <File FileName="MGlobal.Api/Controllers/EmployeeController.cs" Line="33" Column="53" />
+      <File FileName="MGlobal.Api/Startup.cs" Line="50" Column="1" />
+      <File FileName="MGlobal.Api/Properties/launchSettings.json" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MGlobal" expanded="True">
+            <Node name="Core" expanded="True" />
+            <Node name="MGlobal.Api" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MGlobal.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/carolina/Documents/MGlobal/MGlobal/Controllers/SampleDataController.cs" relfile="MGlobal/Controllers/SampleDataController.cs" line="23" column="1" />
+      <Breakpoint file="/Users/carolina/Documents/MGlobal/MGlobal.Api/Controllers/EmployeeController.cs" relfile="MGlobal.Api/Controllers/EmployeeController.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
